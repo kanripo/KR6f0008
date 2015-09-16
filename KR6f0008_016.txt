@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.258000
+#+DATE: 2015-08-30 20:00:36.138408
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6f0008_T_016-0817c> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 16
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第十¶
+《佛說大乘菩薩藏正法經》卷第十¶
 六¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
@@ -207,11 +206,7 @@
 法，聞已當生清淨信樂，超越分別、離諸疑惑，¶
 後復生起身喜心喜，發希有想。¶
 
-5慈悲喜捨品
-:PROPERTIES:
-:head: 慈悲喜捨品第五之一
-:END:
-¶
+慈悲喜捨品第五之一¶
 
 「復次舍利子！彼住信菩薩，諸佛世尊審知其¶
 器，堪可任持菩薩藏正法之器、是諸佛法器，¶

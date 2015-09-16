@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.546896
+#+DATE: 2015-08-30 20:00:36.422526
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6f0008_T_027-0849b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第二¶
+《佛說大乘菩薩藏正法經》卷第二¶
 十七¶
 ¶
 西天譯經三藏銀青光祿大夫¶
