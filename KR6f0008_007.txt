@@ -1,21 +1,19 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.033636
+#+DATE: 2015-08-30 20:00:37.696569
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0008_T_007-0794b> 
 #+PROPERTY: JUAN 7
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第七¶
+《佛說大乘菩薩藏正法經》卷第七¶
 ¶
 西天譯經三藏朝散大夫¶
-試光祿卿傳梵大師賜紫¶
-沙門臣法護等奉　詔譯¶
+試光祿卿傳梵大師賜紫沙門臣法護等奉　詔譯¶
 菩薩觀察品第三之餘¶
 
 復次，佛告舍利子言：「云何名為不放逸法？所¶
@@ -85,11 +83,7 @@
 菩薩勤行相應，即不減失一切善法，速能圓¶
 滿一切佛法。」¶
 
-4如來不思議品
-:PROPERTIES:
-:head: 如來不思議品第四之一
-:END:
-¶
+如來不思議品第四之一¶
 
 爾時佛告舍利子言：「信心住菩薩，於佛、如來、¶
 應供、正等正覺十種不思議法中，信解清淨，¶

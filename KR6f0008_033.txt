@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.703487
+#+DATE: 2015-08-30 20:00:38.369037
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0008_T_033-0866c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 33
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第三¶
+《佛說大乘菩薩藏正法經》卷第三¶
 十三¶
 ¶
 西天譯經三藏銀青光祿大夫¶
@@ -205,11 +204,7 @@
 #+END_VERSE
 」¶
 
-11勝慧波羅蜜多品
-:PROPERTIES:
-:head: 勝慧波羅蜜多品第十一之一
-:END:
-¶
+勝慧波羅蜜多品第十一之一¶
 
 爾時佛告舍利子：「云何諸菩薩摩訶薩勝慧¶
 波羅蜜多？舍利子！若諸菩薩行不退轉菩薩¶

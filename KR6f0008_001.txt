@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:28.866715
+#+DATE: 2015-08-30 20:00:37.549464
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0008_T_001-0781a> 
 #+PROPERTY: JUAN 1
 ¶
-No.316[No.310(12)]¶
-
- 《佛說大乘菩薩藏正法經》卷第一¶
+No. 316 [No. 310(12)]¶
+《佛說大乘菩薩藏正法經》卷第一¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 傳梵大師賜紫沙門臣法護等奉　詔譯¶
 
-1長者賢護品
-:PROPERTIES:
-:head: 長者賢護品第一之一
-:END:
-¶
+長者賢護品第一之一¶
 
 如是我聞：
 
@@ -144,13 +139,13 @@ No.316[No.310(12)]¶
 　二手足心及二肩，¶
 　一頸平滿七處同，
 　圓具清淨而明煥。¶
-　雙臂修直復𦟛圓，
+　雙臂修直復[月*庸]圓，
 　其猶龍王妙清淨，¶
 　無高無下二臂同，
 　雙垂二臂立過膝。¶
 　上半身如師子王，
 　如尼拘陀身圓滿，¶
-　猶那羅延不壞身，
+　猶那羅延不壤身，
 　大力忍力皆具足。¶
 　身毛上靡而柔軟，
 　彼一一毛皆右旋，¶

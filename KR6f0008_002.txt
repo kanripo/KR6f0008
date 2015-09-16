@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:28.894885
+#+DATE: 2015-08-30 20:00:37.569438
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0008_T_002-0783a> ¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第二¶
+《佛說大乘菩薩藏正法經》卷第二¶
 ¶
 西天譯經三藏朝散大夫試光祿卿¶
 傳梵大師賜紫沙門臣法護等奉　詔譯¶
@@ -167,7 +166,7 @@
 斯苦甚大，二者無明分法常所縈纏斯苦甚¶
 大，三者欲海汎溢斯苦甚大，四者欲中艱苦¶
 支節摧壞斯苦甚大，五者親愛纏縛欲箭所¶
-射斯苦甚大，六者忿恨煙塵蓬㶿充塞發明¶
+射斯苦甚大，六者忿恨煙塵蓬[火*孛]充塞發明¶
 熾焰斯苦甚大，七者貪火燒然斯苦甚大，八¶
 者瞋毒隱覆斯苦甚大，九者癡障如刺斯苦¶
 甚大，十者生死曠野險難怖畏纏縛隨逐斯¶

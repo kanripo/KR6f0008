@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.484458
+#+DATE: 2015-08-30 20:00:38.164874
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0008_T_025-0843b> 
 #+PROPERTY: JUAN 25
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第二¶
+《佛說大乘菩薩藏正法經》卷第二¶
 十五¶
 ¶
 西天譯經三藏銀青光祿大夫¶
@@ -64,11 +63,7 @@
 諍訟等皆悉不現，是名菩薩摩訶薩成就最¶
 上忍辱波羅蜜多。¶
 
-9精進波羅蜜多品
-:PROPERTIES:
-:head: 精進波羅蜜多品第九之一
-:END:
-¶
+精進波羅蜜多品第九之一¶
 
 「復次舍利子！云何名為菩薩摩訶薩精進波¶
 羅蜜多？」

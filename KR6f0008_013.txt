@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.189342
+#+DATE: 2015-08-30 20:00:37.842871
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0008_T_013-0809c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 13
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第¶
+《佛說大乘菩薩藏正法經》卷第¶
 十三¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -283,7 +282,7 @@
 大悲心已，亦為眾生廣大宣說，斷除諸漏¶
 之法。如來於大眾中得無所畏，以如是法¶
 教示眾會，令諸眾會咸生歡喜，身得喜故¶
-心極信順。復令眾會適悅快樂，如來大悲¶
+心極信順。復令眾曾適悅快樂，如來大悲¶
 相應具真實故、平等性故、如實性故、無異¶
 性故、無種類性故、無所觀性故、無生性故、¶
 無離性故、無所取性故。如來所具無畏法¶

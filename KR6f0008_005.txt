@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:28.972225
+#+DATE: 2015-08-30 20:00:37.648334
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0008_T_005-0789c> ¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第五¶
+《佛說大乘菩薩藏正法經》卷第五¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
 光梵大師賜紫沙門臣惟淨等¶
 奉　詔譯¶
 
-2無怖夜叉品
-:PROPERTIES:
-:head: 無怖夜叉品第二
-:END:
-¶
+無怖夜叉品第二¶
 
 爾時世尊於其中路化度五百諸長者已，¶
 即於是處安然詳審，將入王舍大城。¶
@@ -333,7 +328,7 @@
 路，往詣鷲峯山中。世尊到已，即告尊者阿難¶
 言：「汝可為佛施設殊妙之座，所謂法座、最上¶
 之座、三界勝座及妙寶座。如來登其座已，攝¶
-受一切眾生，稱揚演說彼菩薩藏甚深正法，¶
+受一切眾生，稱揚演說彼菩薩歲甚深正法，¶
 成辦一切菩薩勝行，除去一切眾生諸有疑¶
 惑，開明正慧斷諸疑網。如來說此甚深經典，¶
 廣為悲愍利益安樂天人世間一切眾生。」¶
