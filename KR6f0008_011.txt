@@ -1,17 +1,16 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.133590
+#+DATE: 2015-08-30 20:00:32.446624
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6f0008_T_011-0804b> 
 #+PROPERTY: JUAN 11
 ¶
-
- 《佛說大乘菩薩藏正法經》卷¶
+《佛說大乘菩薩藏正法經》卷¶
 第十一¶
 ¶
 譯經三藏朝散大夫試光祿卿¶

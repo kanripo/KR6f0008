@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:28.945789
+#+DATE: 2015-08-30 20:00:32.280078
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6f0008_T_004-0787b> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第四¶
+《佛說大乘菩薩藏正法經》卷第四¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
 光梵大師賜紫沙門臣惟淨¶
@@ -57,7 +56,7 @@
 淨信捨家出家。得出家已不生樂欲，無樂欲¶
 故圓具淨戒，修持清淨波羅提木叉之法，圓¶
 滿潔白法式儀範，乃至小罪猶懷大懼。諸長¶
-者！若如是學即得戒蘊具足。戒具足故，眼耳¶
+者！若如是學即得戒蘊具足。戒具足故，耳¶
 鼻舌身意、色聲香味觸法而無所取。¶
 
 「色蘊、受蘊、想蘊、行蘊、識蘊而無所取，眼界、色¶

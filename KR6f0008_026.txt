@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.509702
+#+DATE: 2015-08-30 20:00:32.858251
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6f0008_T_026-0846a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 26
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷¶
+《佛說大乘菩薩藏正法經》卷¶
 第二十六¶
 ¶
 西天譯經三藏銀青光祿大夫¶
@@ -356,7 +355,7 @@
 「　「『汝眾女等勝吉祥，
 　何於惡道不生怖？¶
 　我今令汝悟真實，
-　悉能遠離諸險難。¶
+　悉遠遠離諸險難。¶
 　我之父母并眷屬，
 　於我悉皆非善友，¶
 　我今為彼除邪見，

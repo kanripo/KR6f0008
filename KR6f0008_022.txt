@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.405977
+#+DATE: 2015-08-30 20:00:32.740220
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6f0008_T_022-0834a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 22
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷¶
+《佛說大乘菩薩藏正法經》卷¶
 第二十二¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -47,7 +46,7 @@
 　善調伏者獲妙果。¶
 　所有世間諸患者，
 　若完若缺眾生類，¶
-　背傴𤼣躄矬陋形，
+　背傴[病-丙+戀]躄矬陋形，
 　諸染著故悉減沒。¶
 　遠離一切異類相，
 　當獲最上殊勝報，¶

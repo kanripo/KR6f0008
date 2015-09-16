@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.673897
+#+DATE: 2015-08-30 20:00:32.998019
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6f0008_T_032-0864a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 32
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第三¶
+《佛說大乘菩薩藏正法經》卷第三¶
 十二¶
 ¶
 西天譯經三藏銀青光祿大夫¶
@@ -155,7 +154,7 @@
 覺身相、或聲聞身相、或帝釋天身相、或大梵¶
 王身相、或護世天身相、或轉輪王身相。又彼¶
 所現一一身相而復顯現如是身相，能往調¶
-伏一切有情，及能𢤱悷諸傍生類。又彼所現¶
+伏一切有情，及能[怡-台+龍]悷諸傍生類。又彼所現¶
 如是身相，為諸有情演說正法。又復能現如¶
 是勢力，普為摧伏一切有情極重瞋慢，謂大¶
 壯士力，乃至四分那羅延力，乃至半那羅延¶
