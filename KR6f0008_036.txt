@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.781081
+#+DATE: 2015-08-30 20:00:40.073046
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0008_T_036-0874c> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 36
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第三¶
+《佛說大乘菩薩藏正法經》卷第三¶
 十六¶
 ¶
 西天譯經三藏銀青光祿大夫¶
@@ -45,7 +44,7 @@
 善本憐愍一切，業惑清淨得無生滅，如是莊¶
 嚴菩提道場。發無盡願施諸玩好，獲得圓滿¶
 無盡寶手。遠離顰蹙平等如掌，樂施一切而¶
-先獲得面目端嚴，後諸有情共喜樂見。光淨¶
+先獲得面目端嚴，彼諸有情共喜樂見。光淨¶
 嚴飾施諸有情，而獲光明普照一切。讚美言¶
 辭非由積習，戒福德藏悉皆清淨。生人天¶
 中，十善道業亦復清淨，神通變化亦不唐捐。¶

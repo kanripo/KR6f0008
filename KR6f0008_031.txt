@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.655231
+#+DATE: 2015-08-30 20:00:39.949588
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0008_T_031-0861c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 31
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第三¶
+《佛說大乘菩薩藏正法經》卷第三¶
 十一¶
 ¶
 西天譯經三藏銀青光祿大夫¶
@@ -122,11 +121,7 @@
 不退轉精進之行。舍利子！是名菩薩摩訶薩¶
 精進波羅蜜多。¶
 
-10禪定波羅蜜多品
-:PROPERTIES:
-:head: 禪定波羅蜜多品第十之一
-:END:
-¶
+禪定波羅蜜多品第十之一¶
 
 「復次舍利子！云何菩薩摩訶薩修行進趣菩¶
 薩禪定波羅蜜多之行？舍利子！菩薩摩訶薩¶

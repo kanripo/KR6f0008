@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.753627
+#+DATE: 2015-08-30 20:00:40.050050
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0008_T_035-0872b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 35
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第三¶
+《佛說大乘菩薩藏正法經》卷第三¶
 十五¶
 ¶
 西天譯經三藏銀青光祿大夫¶
@@ -186,7 +185,7 @@
 蜜多。云何二法？一者善識，二者善智。何者為¶
 識？依四種住。何等為四？一者識依色住，二者¶
 識依受住，三者識依想住，四者識依行住，此¶
-說為識。何者為智？謂若了知所取五蘊，此說¶
+說為識。何者以智？謂若了知所取五蘊，此說¶
 為智。又若了知地界水界火界風界，此說為¶
 識。若復安住四種法界，於其法界善能分別，¶
 此說為智。舍利子！復說於識，謂眼觀色為表，¶

@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.109967
+#+DATE: 2015-08-30 20:00:39.415842
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0008_T_010-0801b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 10
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第十¶
+《佛說大乘菩薩藏正法經》卷第十¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
 光梵大師賜紫沙門臣惟淨¶
@@ -295,7 +294,7 @@
 知。若諸眾生修緣覺行感緣覺果，如來決¶
 定如實了知。若諸眾生修佛智因感佛智¶
 果，如來決定如實了知。若諸眾生於現在¶
-世積集苦因，未來世中感其樂報，如來決¶
+世積集苦因，末來世中感其樂報，如來決¶
 定如
 <pb:KR6f0008_T_010-0804b>¶
 

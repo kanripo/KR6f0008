@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.546896
+#+DATE: 2015-08-30 20:00:39.838901
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0008_T_027-0849b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 27
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第二¶
+《佛說大乘菩薩藏正法經》卷第二¶
 十七¶
 ¶
 西天譯經三藏銀青光祿大夫¶
@@ -89,7 +88,7 @@
 日月光明悉皆映蔽。其光復來至佛頂上，右¶
 旋宛轉遶百千匝，忽然不現。舍利子！時毘婆¶
 尸如來有一親侍苾芻，見佛神變光明事已，¶
-即從坐起整衣服，偏袒右肩右膝著地，合掌¶
+即從坐起整衣服，徧袒右肩右膝著地，合掌¶
 向佛瞻仰尊顏，以偈問曰：¶
 
 #+BEGIN_VERSE
