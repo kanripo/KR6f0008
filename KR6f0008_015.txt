@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.239438
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:51
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
@@ -11,7 +11,8 @@
 #+PROPERTY: JUAN 15
 ¶
 
- 《佛說大乘菩薩藏正法經》卷第十¶
+ 
+** 9《佛說大乘菩薩藏正法經》卷第十¶
 五¶
 ¶
 西天譯經三藏朝散大夫¶
