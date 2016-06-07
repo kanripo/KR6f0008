@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.133590
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:51
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0008_T_011-0804b> 
 #+PROPERTY: JUAN 11
 ¶
-
- 《佛說大乘菩薩藏正法經》卷¶
+《佛說大乘菩薩藏正法經》卷¶
 第十一¶
 ¶
 譯經三藏朝散大夫試光祿卿¶
@@ -85,9 +84,9 @@
 　隨其信解了知已，
 　如其所應為說法，¶
 　第三勝解智力門，
-　佛子當生清淨信。
+　佛子當生清淨信。」
 #+END_VERSE
-」¶
+¶
 
 「舍利子！如是如來第三信解智力。如來、應供、¶
 正等正覺以具勝智力故了知勝處，於大眾
@@ -164,9 +163,9 @@
 　知心所起信解已，
 　俱胝眾生悉調伏，¶
 　如來第四力圓成，
-　佛子當生清淨信。
+　佛子當生清淨信。」
 #+END_VERSE
-」¶
+¶
 
 「舍利子！如是如來第四智力，廣說乃至無與¶
 如來同其法者。¶
@@ -252,9 +251,9 @@
 　聲聞諸根難解脫，
 　唯佛菩提善出離，¶
 　聲聞不知佛智因，
-　為說菩提最勝力。
+　為說菩提最勝力。」
 #+END_VERSE
-」¶
+¶
 
 「舍利子！此是如來第五智力，廣說乃至無與¶
 如來同其法者。¶

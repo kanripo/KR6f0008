@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.849043
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:51
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0008_T_039-0881c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 39
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第三¶
+《佛說大乘菩薩藏正法經》卷第三¶
 十九¶
 ¶
 西天譯經三藏銀青光祿大夫¶
@@ -94,9 +93,9 @@
 　善哉大智者，
 　速疾求出離，¶
 　於此菩提道，
-　堅固持淨戒。』
+　堅固持淨戒。』」
 #+END_VERSE
-」
+
 <pb:KR6f0008_T_039-0882c>¶
 
 「爾時淨居天子說伽陀已，於初夜分，即為太¶

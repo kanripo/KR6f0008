@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:29.214995
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:51
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0008_T_014-0812b> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 14
 ¶
 ¶
-
- 《佛說大乘菩薩藏正法經》卷第十¶
+《佛說大乘菩薩藏正法經》卷第十¶
 四¶
 ¶
 西天譯經三藏朝散大夫¶
@@ -323,9 +322,9 @@
 　了知諸法如實性，
 　廓然明照等虛空，¶
 　如佛所說諸世間，
-　不知最上清淨法。
+　不知最上清淨法。」
 #+END_VERSE
-」¶
+¶
 
 「舍利子！如是所說，是為如來不可思議大悲¶
 之法。諸住信菩薩聞是法已，應生淨信，超越¶
