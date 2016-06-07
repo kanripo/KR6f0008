@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:32.980156
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:51
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6f0008_T_031-0861c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 31
 ¶
@@ -121,7 +121,7 @@
 不退轉精進之行。舍利子！是名菩薩摩訶薩¶
 精進波羅蜜多。¶
 
-禪定波羅蜜多品第十之一¶
+* 禪定波羅蜜多品第十之一¶
 
 「復次舍利子！云何菩薩摩訶薩修行進趣菩¶
 薩禪定波羅蜜多之行？舍利子！菩薩摩訶薩¶

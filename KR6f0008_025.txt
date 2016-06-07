@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:32.830653
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:51
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6f0008_T_025-0843b> 
 #+PROPERTY: JUAN 25
 ¶
@@ -63,7 +63,7 @@
 諍訟等皆悉不現，是名菩薩摩訶薩成就最¶
 上忍辱波羅蜜多。¶
 
-精進波羅蜜多品第九之一¶
+* 精進波羅蜜多品第九之一¶
 
 「復次舍利子！云何名為菩薩摩訶薩精進波¶
 羅蜜多？」
@@ -152,9 +152,9 @@
 　普現一切戒清淨，
 　世間事業盡能習，¶
 　復能利樂諸有情，
-　具足精進無損減。」
+　具足精進無損減。」」
 #+END_VERSE
-」¶
+¶
 
 佛告舍利子：「我滅度後後五百歲，若有有情¶
 行是行時，於諸契經愛樂受持，當得無量勝¶
@@ -238,9 +238,9 @@
 　彼人長夜受苦惱，
 　為愚癡故不解脫，¶
 　於佛菩提悉棄捨，
-　速疾墮落惡趣中。
+　速疾墮落惡趣中。」
 #+END_VERSE
-」¶
+¶
 
 「舍利子！如來有清淨潔白智慧之法。舍利子！¶
 於四眾中，若有一類苾芻、苾芻尼、優婆塞、優¶

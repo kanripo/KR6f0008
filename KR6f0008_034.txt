@@ -1,12 +1,12 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:33.069312
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:51
 #+TITLE: 佛說大乘菩薩藏正法經
 #+PROPERTY: CBETA_ID T11n0316
 #+PROPERTY: ID KR6f0008
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 11, No. 316
 #+PROPERTY: VOL 11
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【大→UNKNOWN】
+#+PROPERTY: WITNESS T@UNKNOWN
 #+PROPERTY: LASTPB <pb:KR6f0008_T_034-0869c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 34
 ¶
@@ -62,9 +62,9 @@
 　以學是法故，
 　得勝慧清淨，¶
 　了有情意已，
-　為開示正法。
+　為開示正法。」
 #+END_VERSE
-」¶
+¶
 
 「復次舍利子！菩薩摩訶薩於勝慧波羅蜜多¶
 微妙清淨光明法門及諸聖者發起正見，如¶
